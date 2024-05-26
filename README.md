@@ -3,6 +3,7 @@
 <ol>
   <li> Data Structures
 	<ol>
+		<li>Stack</li>
 		<li>Linked List</li>
 		<li>Double Linked List</li>
 		<li>Circular Buffer</li>
