@@ -116,5 +116,7 @@ int main(int argc, char **argv){
 	}
 	print_elements(ll);
 
+	delete_all_elements(&ll);
+
 	return 0;
 }
