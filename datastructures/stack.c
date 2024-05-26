@@ -97,6 +97,11 @@ void print_stack_elements(struct stack *p){
 	}
 }
 
+void destroy_stack(struct stack *s){
+	free(s->buffer);
+	free(s);
+}
+
 int main(int argc, char **argv){
 	struct stack *s;
 	void *ptr; 
@@ -122,5 +127,7 @@ int main(int argc, char **argv){
 
 	printf("Printing\n");
 	print_stack_elements(s);
+
+	destroy_stack(s);
 	return 0;
 }
