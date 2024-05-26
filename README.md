@@ -7,7 +7,12 @@
 		<li>Linked List</li>
 		<li>Double Linked List</li>
 		<li>Circular Buffer</li>
-		<li>Tree - General Tree</li>
+		<li>Tree
+			<ol>
+				<li>General Tree</li>
+				<li>Binary Tree</li>
+			</ol>
+		</li>
 	</ol>
   </li>
   <li> IPC Mechanisms
