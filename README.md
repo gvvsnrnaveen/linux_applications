@@ -10,6 +10,12 @@
 		<li>Tree - General Tree</li>
 	</ol>
   </li>
+  <li> IPC Mechanisms
+        <ol>
+		<li>Message Queues - Posix</li>
+		<li>Shared Memory - Posix</li>
+	</ol>
+  </li>
   <li>MQTT - Pub/Sub Application with mqtts:// connection
   <li>libipset C Program
 	<ol>
