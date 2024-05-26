@@ -7,6 +7,7 @@
 		<li>Linked List</li>
 		<li>Double Linked List</li>
 		<li>Circular Buffer</li>
+		<li>Tree - General Tree</li>
 	</ol>
   </li>
   <li>MQTT - Pub/Sub Application with mqtts:// connection
