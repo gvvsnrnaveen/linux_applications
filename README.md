@@ -4,9 +4,10 @@
   <li> Data Structures
 	<ol>
 		<li>Stack</li>
+		<li>Queue (Similar to circular buffer, but with malloc)</li>
 		<li>Linked List</li>
 		<li>Double Linked List</li>
-		<li>Circular Buffer</li>
+		<li>Circular Buffer (Similar to queue, but with linkedlist)</li>
 		<li>Tree
 			<ol>
 				<li>General Tree</li>
